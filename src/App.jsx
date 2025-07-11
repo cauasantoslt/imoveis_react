@@ -1,7 +1,6 @@
 // src/App.jsx
 import { useState } from 'react';
 import { motion } from 'framer-motion';
-import { Slider } from '@/components/ui/slider';
 import { Card, CardContent } from '@/components/ui/card';
 import { LineChart, Line, XAxis, YAxis, Tooltip, CartesianGrid, ResponsiveContainer } from 'recharts';
 import { Info } from 'lucide-react';
